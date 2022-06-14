@@ -1,0 +1,12 @@
+.box{
+    width: 1000px;
+    height: 1000px;
+    
+    display: inline;
+}
+#a1{
+    background-color: rgb(191, 154, 225);
+}
+#a2{
+    background-color: pink;
+}
